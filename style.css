@@ -1,0 +1,13 @@
+ html { 
+        height: 100%;
+        }
+ 
+ body { 
+        height: 100%; 
+        }
+
+#map-canvas { 
+        height: 80%;
+        width: 80%;
+        border: 1px black solid;
+        }
